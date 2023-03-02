@@ -1,0 +1,12 @@
+body{
+  background-image: url("https://courses.ics.hawaii.edu/ics314s23/morea/ui-frameworks/wod-boardroom-background.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+div.justify-content-start.navbar-nav{
+  color:white;
+}
+
+footer{
+  background-color: gray;
+}
